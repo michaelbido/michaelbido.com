@@ -29,7 +29,8 @@ body {
 .footer {
   color: #777777;
   margin: 16px auto 16px auto;
-  text-align: center; }
+  text-align: center;
+  max-width: 70%; }
   .footer p {
     margin: 0;
     padding: 0;
@@ -53,7 +54,7 @@ body {
       width: 200px;
       max-width: 80%; }
     .content .content__box p {
-      background-color: black;
+      background-color: #111111;
       padding: 8px;
       max-width: 80%;
       margin-left: auto;
