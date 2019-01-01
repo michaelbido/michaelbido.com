@@ -17,8 +17,7 @@ body {
 }
 
 .root {
-  height: 100vh;
+  height: 120vh;
   display: grid;
-  grid-template-rows: 70px auto;
-  margin-bottom: 60px;
+  grid-template-rows: 70px auto 70px;
 }
